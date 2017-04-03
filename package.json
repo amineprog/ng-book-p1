@@ -1,0 +1,22 @@
+{
+  "name": "ng-book-p1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "ippo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amineprog/ng-book-p1.git"
+  },
+  "keywords": [
+    "angular2"
+  ],
+  "author": "aminerifi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amineprog/ng-book-p1/issues"
+  },
+  "homepage": "https://github.com/amineprog/ng-book-p1#readme"
+}
